@@ -12,6 +12,6 @@ Rule:
 Tracking learning, internship work, coding, and life discipline.
 
 
-mar 02-03 :
+mar 03-03 :
 Solved leetcode
 Commit.
